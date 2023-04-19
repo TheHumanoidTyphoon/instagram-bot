@@ -1,11 +1,11 @@
-# ToDo App
-A simple web-based todo list app built with HTML, CSS, and JavaScript. This app allows users to add, edit, and delete tasks, as well as mark them as completed or pending.
+# ToDo List App
+A simple web-based todo list app built with `HTML`, `CSS`, and `JavaScript`. This app allows users to add, edit, and delete tasks, as well as mark them as completed or pending.
 
 ## Getting started
 To use this app, simply download the code and open the `index.html` file in your web browser. You can also check out a live demo of the app here.
 
 ## Usage
-Adding a new task
+### Adding a new task
 To add a new task, simply enter the task description in the input field at the top of the app and press enter.
 
 ### Editing a task
