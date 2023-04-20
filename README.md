@@ -27,7 +27,7 @@ To clear all tasks, click the `"Clear All"` button at the top of the app.
 If you'd like to contribute to this project, feel free to submit a pull request. Please ensure that your code follows the same coding style as the existing code and that it includes appropriate comments and documentation.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/TheHumanoidTyphoon/todo-list/blob/master/LICENSE) file for details.
 
 ## Acknowledgments
 This app was inspired by the [TodoMVC]() project.
